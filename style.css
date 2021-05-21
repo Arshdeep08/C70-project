@@ -1,0 +1,119 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.achievements_maindiv{
+    border:1px solid red;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    
+}
+.achievements_maindiv img{
+    width: 100%;
+}
+.achievements_maindiv hr{
+    width: 230px;
+}
+.achievements_maindiv h5 , .achievements_maindiv p{
+    margin-left: 20px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: #ff7700;
+}
+.transport_maindiv{
+    border:1px solid red;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    
+}
+.transport_maindiv img{
+    width: 100%;
+}
+.transport_maindiv hr{
+    width: 230px;
+}
+.transport_maindiv h5 , .transport_maindiv p{
+    margin-left: 20px;
+}
+.functionsandevents_maindiv{
+    border:1px solid red;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    
+}
+.functionsandevents_maindiv img{
+    width: 100%;
+}
+.functionsandevents_maindiv hr{
+    width: 230px;
+}
+.functionsandevents_maindiv h5 , .functionsandevents_maindiv p{
+    margin-left: 20px;
+}
+.library_maindiv{
+    border:1px solid red;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    
+}
+.library_maindiv img{
+    width: 100%;
+}
+.library_maindiv hr{
+    width: 230px;
+}
+.library_maindiv h5 , .library_maindiv p{
+    margin-left: 20px;
+}
+.clinic_maindiv{
+    border:1px solid red;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    
+}
+.clinic_maindiv img{
+    width: 100%;
+}
+.clinic_maindiv hr{
+    width: 230px;
+}
+.clinic_maindiv h5 , .clinic_maindiv p{
+    margin-left: 20px;
+}
+.school_li{
+    margin-top: 13px;
+}
+.school_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.school_li img{
+    border-radius: 25px;
+}
+.school_li p{
+    margin-top: 10px;
+}
+#contact{
+    margin: 10px;
+}
